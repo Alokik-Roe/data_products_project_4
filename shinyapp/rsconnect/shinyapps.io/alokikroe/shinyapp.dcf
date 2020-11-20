@@ -1,0 +1,12 @@
+name: shinyapp
+title: shinyapp
+username:
+account: alokikroe
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3270870
+bundleId: 3883245
+url: https://alokikroe.shinyapps.io/shinyapp/
+when: 1605842763.48236
+asMultiple: FALSE
+asStatic: FALSE
